@@ -1,0 +1,1 @@
+dotnet test "%~dp0\Test1\bin\Debug\net6.0-windows\Issue1203.dll"

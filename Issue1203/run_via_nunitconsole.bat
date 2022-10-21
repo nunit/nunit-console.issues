@@ -1,0 +1,1 @@
+"..\..\nunit-console\src\NUnitConsole\nunit3-console\bin\Release\net462\nunit3-console.exe" "%~dp0\WindowsTest\bin\Debug\net6.0-windows\WindowsTest.dll"  --framework=netcore-6.0 --labels=Before --noheader --trace=Verbose

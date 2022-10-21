@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.bak
+TestResult*.xml
+*.log
+
+
