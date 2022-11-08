@@ -1,0 +1,1 @@
+"..\nunit-console\src\NUnitConsole\nunit3-netcore-console\bin\Release\net6.0\nunit3-netcore-console.exe" %*
